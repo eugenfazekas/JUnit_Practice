@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/antlr4-4.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/antlr4-runtime-4.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/antlr-runtime-3.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/apiguardian-api-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/atomicfu-0.14.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/automaton-1.11-8.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/checker-qual-3.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/classgraph-4.8.105.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/colormath-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/diffutils-1.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/error_prone_annotations-2.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/evo-inflector-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/flexmark-0.62.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/flexmark-ext-tables-0.62.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/flexmark-util-0.62.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/flexmark-util-ast-0.62.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/flexmark-util-builder-0.62.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/flexmark-util-collection-0.62.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/flexmark-util-data-0.62.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/flexmark-util-dependency-0.62.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/flexmark-util-format-0.62.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/flexmark-util-html-0.62.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/flexmark-util-misc-0.62.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/flexmark-util-options-0.62.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/flexmark-util-sequence-0.62.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/flexmark-util-visitor-0.62.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/generex-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/guava-30.1-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/httpclient-4.5.13.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/icu4j-61.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/javax.json-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/junit5-4.2.9.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/junit-jupiter-api-5.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/junit-platform-commons-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/kotlin-logging-jvm-2.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/kotlin-reflect-1.4.32.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/kotlin-result-1.1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/kotlin-result-jvm-1.1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/kotlin-stdlib-1.4.32.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/kotlin-stdlib-common-1.4.32.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/kotlin-stdlib-jdk7-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/kotlin-stdlib-jdk8-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/kotlinx-coroutines-core-1.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/kotlinx-coroutines-core-common-1.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/ktor-http-jvm-1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/ktor-io-jvm-1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/ktor-utils-jvm-1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/mail-1.5.0-b01.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/matchers-4.2.9.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/model-4.2.9.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/mordant-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/opentest4j-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/org.abego.treelayout.core-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/pactbroker-4.2.9.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/provider-4.2.9.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/slf4j-api-1.7.28.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/ST4-4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/support-4.2.9.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/tika-core-1.27.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/xercesImpl-2.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programing/Programs/Junit5/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="target/generated-test-sources/test-annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
