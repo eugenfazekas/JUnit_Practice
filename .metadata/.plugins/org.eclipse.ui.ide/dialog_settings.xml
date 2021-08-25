@@ -44,6 +44,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\john\Desktop\ch17-spring-boot-beans"/>
+			<item value="C:\Users\john\Desktop\ch16-spring-junit5-new-feature"/>
 			<item value="D:\Programing\Git\JUnit_Practice"/>
 		</list>
 	</section>
