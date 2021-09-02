@@ -2,4 +2,10 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.registration.RegistrationManager"/>
     <fullyQualifiedTypeName name="com.registration.PassengerRegistrationEvent"/>
+    <fullyQualifiedTypeName name="com.airport.Flight"/>
+    <fullyQualifiedTypeName name="com.airport.Passenger"/>
+    <fullyQualifiedTypeName name="com.airport.EconomyFlight"/>
+    <fullyQualifiedTypeName name="com.airport.BusinessFlight"/>
+    <fullyQualifiedTypeName name="com.airport.PremiumFlight"/>
+    <fullyQualifiedTypeName name="com.mileage.Mileage"/>
 </qualifiedTypeNameHistroy>

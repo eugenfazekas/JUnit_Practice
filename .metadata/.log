@@ -9278,3 +9278,78 @@ org.eclipse.core.runtime.CoreException: Launch configuration SpringBoot_JUnit_Pr
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:26:35.127
 !MESSAGE executing callback sts4.classpath.uYkFzzNF SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:51.580
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:51.581
+!MESSAGE classpath=7 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:51.581
+!MESSAGE buffering callback sts4.classpath.uYkFzzNF SpringBoot_JUnit_Practice_13_Bdd false 7
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:51.581
+!MESSAGE executing callback sts4.classpath.uYkFzzNF 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:51.586
+!MESSAGE executing callback sts4.classpath.uYkFzzNF SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:51.748
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:51.749
+!MESSAGE classpath=7 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:51.749
+!MESSAGE buffering callback sts4.classpath.uYkFzzNF SpringBoot_JUnit_Practice_13_Bdd false 7
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:51.749
+!MESSAGE executing callback sts4.classpath.uYkFzzNF 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:51.754
+!MESSAGE executing callback sts4.classpath.uYkFzzNF SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:52.232
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:52.233
+!MESSAGE classpath=7 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:52.233
+!MESSAGE buffering callback sts4.classpath.uYkFzzNF SpringBoot_JUnit_Practice_13_Bdd false 7
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:52.233
+!MESSAGE executing callback sts4.classpath.uYkFzzNF 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:52.237
+!MESSAGE executing callback sts4.classpath.uYkFzzNF SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:54.074
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:54.075
+!MESSAGE classpath=29 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:54.076
+!MESSAGE buffering callback sts4.classpath.uYkFzzNF SpringBoot_JUnit_Practice_13_Bdd false 29
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:54.077
+!MESSAGE executing callback sts4.classpath.uYkFzzNF 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:54.085
+!MESSAGE executing callback sts4.classpath.uYkFzzNF SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:56.376
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:56.378
+!MESSAGE classpath=29 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:56.380
+!MESSAGE buffering callback sts4.classpath.uYkFzzNF SpringBoot_JUnit_Practice_13_Bdd false 29
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:56.380
+!MESSAGE executing callback sts4.classpath.uYkFzzNF 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-02 00:48:56.388
+!MESSAGE executing callback sts4.classpath.uYkFzzNF SUCCESS [done]

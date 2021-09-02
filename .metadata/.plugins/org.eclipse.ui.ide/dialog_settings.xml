@@ -44,6 +44,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\john\Desktop\Phase5"/>
+			<item value="C:\Users\john\Desktop\SpringBoot_JUnit_Practice_13_Bdd"/>
+			<item value="C:\Users\john\Desktop\SpringBoot_JUnit_Practice_12_Bdd"/>
 			<item value="C:\Users\john\Desktop\spring-hibernate"/>
 			<item value="C:\Users\john\Desktop\spring-jdbc"/>
 			<item value="C:\Users\john\Desktop\ch17-spring-boot-beans"/>
